@@ -1,7 +1,0 @@
-your-project/
-├── pages/
-│   └── index.js
-├── node_modules/
-├── package.json
-├── next.config.js
-└── ... other files
